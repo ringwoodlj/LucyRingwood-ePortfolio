@@ -3240,7 +3240,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #ffb4a2;
+			background-image: src="/images/bokeh.jpg";
+			background-size: cover;;
 		}
 
 		.wrapper.style1-alt {
