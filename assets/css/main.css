@@ -197,10 +197,10 @@ input, select, textarea {
 		}
 
 			h1.major:after {
-				background-image: -moz-linear-gradient(to right, #470D21, #E7AB79);
-				background-image: -webkit-linear-gradient(to right, #470D21,  #E7AB79);
-				background-image: -ms-linear-gradient(to right, #470D21,  #E7AB79);
-				background-image: linear-gradient(to right, #470D21,  #E7AB79);
+				background-image: -moz-linear-gradient(to right, #ffb4a2, #B5838D);
+				background-image: -webkit-linear-gradient(to right, #ffb4a2,  #B5838D);
+				background-image: -ms-linear-gradient(to right, #ffb4a2,  #B5838D);
+				background-image: linear-gradient(to right, #ffb4a2,  #B5838D);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -1915,7 +1915,7 @@ input, select, textarea {
 		button.primary,
 		.button.primary {
 			background-color: #ffffff;
-			color: #B25068 !important;
+			color: #5e4352 !important;
 		}
 
 			input[type="submit"].primary:after,
@@ -2356,7 +2356,7 @@ input, select, textarea {
 
 		select option {
 			color: #ffffff;
-			background: #B25068;
+			background: #5e4352;
 		}
 
 		select:focus::-ms-value {
@@ -2525,7 +2525,7 @@ input, select, textarea {
 			display: block;
 			background: #ffffff;
 			border-radius: 100%;
-			color: #B25068;
+			color: #5e4352;
 			text-align: center;
 			line-height: 2.5em;
 			margin: 0 0 1.3em 0;
@@ -2536,7 +2536,7 @@ input, select, textarea {
 			}
 
 				.wrapper.style1 .icon.major:before {
-					color: #470D21;
+					color: #ffb4a2;
 				}
 
 				.wrapper.style1-alt .icon.major:before {
@@ -3236,19 +3236,19 @@ input, select, textarea {
 			}
 
 		.wrapper.alt {
-			background-color: #B25068;
+			background-color: #5e4352;
 		}
 
 		.wrapper.style1 {
-			background-color: #470D21;
+			background-color: #ffb4a2;
 		}
 
 		.wrapper.style1-alt {
-			background-color: #B25068;
+			background-color: #5e4352;
 		}
 
 		.wrapper.style2 {
-			background-color: #E7AB79;
+			background-color: #B5838D;
 		}
 
 		.wrapper.style2-alt {
@@ -3256,7 +3256,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3 {
-			background-color: #D67D3E;
+			background-color: #E5989B;
 		}
 
 		.wrapper.style3-alt {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #B25068;
+		background: #5e4352;
 		cursor: default;
 		height: 100vh;
 		left: 0;
@@ -3761,7 +3761,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #B25068;
+				background: #5e4352;
 			}
 
 			#sidebar nav a:after {
