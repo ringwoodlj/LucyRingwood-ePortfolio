@@ -3240,7 +3240,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-image: src="images/bokeh.jpg";
+			background-image: src="images/bokeh.jpg" filter: contrast(0.8) brightness(0.5);;
 			background-size: cover;;
 		}
 
