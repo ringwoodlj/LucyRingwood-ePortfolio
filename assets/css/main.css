@@ -3875,9 +3875,7 @@ input, select, textarea {
 
 	#intro {
 		background-attachment: fixed;
-		background-image: <video autoplay muted loop id="myVideo">
- 				 <source src="rain.mp4" type="video/mp4">
-				</video>;
+		background-image: url("images/bokeh.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: 100% 100%;
