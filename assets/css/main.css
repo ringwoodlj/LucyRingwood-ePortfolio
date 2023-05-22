@@ -3371,7 +3371,7 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #352a3d;
+		background-color: #28202e;
 		cursor: default;
 		padding: 1.75em 2em;
 	}
@@ -3509,7 +3509,7 @@ input, select, textarea {
 	}
 
 		#footer > .inner a:hover {
-			border-bottom-color: #B5838D;
+			border-bottom-color: #28202e;
 		}
 
 	#footer > .inner .menu {
