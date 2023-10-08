@@ -2444,7 +2444,7 @@ input, select, textarea {
 		input[type="radio"]:checked + label:before {
 			background: #d9ceb9;
 			border-color: #d9ceb9;
-			color: #b74e91;
+			color: #F08650;
 			content: '\f00c';
 		}
 
@@ -2540,23 +2540,23 @@ input, select, textarea {
 				}
 
 				.wrapper.style1-alt .icon.major:before {
-					color: #493382;
+					color: #BE4A5D;
 				}
 
 				.wrapper.style2 .icon.major:before {
-					color: #5052b5;
+					color: #BE4A5D;
 				}
 
 				.wrapper.style2-alt .icon.major:before {
-					color: #3e4094;
+					color: #BE4A5D;
 				}
 
 				.wrapper.style3 .icon.major:before {
-					color: #b74e91;
+					color: #BE4A5D;
 				}
 
 				.wrapper.style3-alt .icon.major:before {
-					color: #953d75;
+					color: #BE4A5D5;
 				}
 
 /* Image */
@@ -3253,7 +3253,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2-alt {
-			background-color: #3e4094;
+			background-color: #272B3F;
 		}
 
 		.wrapper.style3 {
@@ -3261,7 +3261,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style3-alt {
-			background-color: #953d75;
+			background-color: #272B3F;
 		}
 
 		.wrapper.fullscreen {
@@ -3766,10 +3766,10 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:after {
-				background-image: -moz-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -webkit-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: -ms-linear-gradient(to right, #5e42a6, #b74e91);
-				background-image: linear-gradient(to right, #5e42a6, #b74e91);
+				background-image: -moz-linear-gradient(to right, #BE4A5D, #F08650);
+				background-image: -webkit-linear-gradient(to right, #BE4A5D, #F08650);
+				background-image: -ms-linear-gradient(to right, #BE4A5D, #F08650);
+				background-image: linear-gradient(to right, #BE4A5D, #F08650);
 				-moz-transition: max-width 0.2s ease;
 				-webkit-transition: max-width 0.2s ease;
 				-ms-transition: max-width 0.2s ease;
@@ -3858,7 +3858,7 @@ input, select, textarea {
 
 						#sidebar nav a:after {
 							background-image: none;
-							background-color: #b74e91;
+							background-color: #F08650;
 						}
 
 		}
